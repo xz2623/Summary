@@ -29,9 +29,9 @@ Welcome to my GitHub Page! :wave:, below is a brief summary
 
 
 
-### Academic Group Project: 
-- [AB_Testing---MSDABC](https://github.com/xz2623/AB_Testing---MSDABC): This repo serves as a delivery folder for my Marketing Analytics course in my Master's program of Data Analytics & Business Computing, group deliverables(codes only) including assignment of A/B testing, customer attribution and allocation, customer segmentation, and customer churn and CLV.
+### Academic Group Project in my Master's program of Data Analytics & Business Computing: 
+- [AB_Testing---MSDABC](https://github.com/xz2623/AB_Testing---MSDABC): serves as a delivery folder for my Marketing Analytics course, group deliverables(codes only) including assignment of A/B testing, customer attribution and allocation, customer segmentation, and customer churn and CLV.
 
-- [Network_Analytics_DABC](https://github.com/xz2623/Network_Analytics_DABC): This repo serves as a delivery folder for my Network Analytics course in my Master's program of Data Analytics & Business Computing, group deliverable(code only) including a Travel Recommender system using Community detection:
+- [Network_Analytics_DABC](https://github.com/xz2623/Network_Analytics_DABC): This repo serves as a delivery folder for my Network Analytics course, group deliverable(code only) including a Travel Recommender system using Community detection:
 	- Web scraped users' posts, reviews, and hashtags from Twitter on travelling destinations in Python, amounting to 30,000 data points.
  	- Constructed the adjacency matrix and user similarity network with Jaccard Index, detected and labeled 5 homophily communities in a divisive algorithm, and built bipartite graphs to identify destinations with higher in-degree centrality as customized travelling lists. The final recommendation system improves the scenic spots’ matching accuracy by 15%.
