@@ -13,17 +13,17 @@ Welcome to my GitHub Page!
  	- customer data of behaviors on a Chinese automobile community app, including surveys, favorite lists, etc. 
 - aggregated the data at the level of each visitor and built a viable ML model that predicts how likely each customer is to be re-acquired.
 <details>
-  <summary>Folder Category and Description</summary>
+  <summary>Folder Category and Description in English</summary>
 
-***Main folder***: [机会战败模型](In English: A ML project that mitigates potential customers loss)
+***Main folder***: [机会战败模型] / [ A ML project that mitigates potential customers loss]
   
-1. sub-folder [1. 合并表格及数据预处理](In English: 1. Data Merging and Data Preprocessing): conducted 
+1. sub-folder [1. 合并表格及数据预处理] / [ 1. Data Merging and Data Preprocessing]: conducted 
 
-2. sub-folder [2. 构建客流表与机会表款表字段](In English: 2. Built a wide table with customer activities and intentions)
+2. sub-folder [2. 构建客流表与机会表款表字段] / [ 2. Built a wide table with customer activities and intentions]
 
-3. sub-folder [3. 构建试乘试驾变量及试乘试驾表宽表](In English: 3. Built a wide table with customer test driving activities)
+3. sub-folder [3. 构建试乘试驾变量及试乘试驾表宽表] / [ 3. Built a wide table with customer test driving activities]
 
-4. sub-folder [4. 构建全新变量及宽表](In English: 3. Built a data mart with all available data at the aggregated level of each visitor)
+4. sub-folder [4. 构建全新变量及宽表] / [ 3. Built a data mart with all available data at the aggregated level of each visitor]
 
 5. sub-folder [5. Time-decay algorithms]
 </details>
