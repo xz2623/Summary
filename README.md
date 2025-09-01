@@ -1,13 +1,17 @@
 # Summary
 Welcome to my GitHub Page!
 
-### Group Project
-- [customer_recovery](https://github.com/xz2623/customer_recovery): This folder contains the deliverables(code) for Jetta, a separate sub-brand of the Volkswagen Group, where we attempted to reacquire customers who have visited physical stores but haven't made a purchase by in-depth data analyses and machine learning solutions.
+### Research Project
+- [Celebrity_Network_2009-2019](https://github.com/xz2623/Celebrity_Network_2009-2019): This folder contains scripts I coded for empirical research on the Chinese movie market through the lens of social influence.
+- ***Data_Cleaning.ipynb***: Web-scraped and preprocessed 2,200+ demographic records from Baidu Encyclopedia
+- ***Individual & Aggregated Network Build.ipynb***: Constructed large-scale celebrity networks (5,856 nodes, 2009–2019) applying adjacency rules based on collaboration, education, kinship, and birthplace, and applied network analysis techniques to compute centrality measures (degree, closeness, betweenness, eigenvector)
+
+### Group Project: Industry
+- [customer_recovery](https://github.com/xz2623/customer_recovery): This folder contains the deliverables(code) for Jetta, a separate sub-brand of the Volkswagen Group, where we, as data analysis consultants, attempted to reacquire customers who have visited physical stores but haven't made a purchase by in-depth data analyses and machine learning solutions.
 - Conducted data cleaning and preparation, and exploratory data analysis on available customer data provided by our vendors, including
 	- customer data of activities at the physical stores, test driving, conversation topics, expressed interests, etc.
  	- customer data of behaviors on a Chinese automobile community app, including surveys, favorite lists, etc. 
 - aggregated the data at the level of each visitor and built a viable ML model that predicts how likely each customer is to be re-acquired.
-
 <details>
   <summary>Folder Category and Description</summary>
 
@@ -24,10 +28,11 @@ Welcome to my GitHub Page!
 5. sub-folder [5. Time-decay algorithms]
 </details>
 
-### Research Project
-- [Celebrity_Network_2009-2019](https://github.com/xz2623/Celebrity_Network_2009-2019): This folder contains scripts I coded for empirical research on the Chinese movie market through the lens of social influence.
-- ***Data_Cleaning.ipynb***: Web-scraped and preprocessed 2,200+ demographic records from Baidu Encyclopedia
-- ***Individual & Aggregated Network Build.ipynb***: Constructed large-scale celebrity networks (5,856 nodes, 2009–2019) applying adjacency rules based on collaboration, education, kinship, and birthplace, and applied network analysis techniques to compute centrality measures (degree, closeness, betweenness, eigenvector)
 
-### Academic Project
-- [AB_Testing---MSDABC](https://github.com/xz2623/AB_Testing---MSDABC): This repo serves as a delivery folder for my Marketing Analytics course in my Master program of Data Analytics & Business Computing, group deliverables including assignment of A/B testing, customer attribution and allocation, customer segmentation,
+
+### Academic Group Project: 
+- [AB_Testing---MSDABC](https://github.com/xz2623/AB_Testing---MSDABC): This repo serves as a delivery folder for my Marketing Analytics course in my Master's program of Data Analytics & Business Computing, group deliverables(codes only) including assignment of A/B testing, customer attribution and allocation, customer segmentation, and customer churn and CLV.
+
+- [Network_Analytics_DABC](https://github.com/xz2623/Network_Analytics_DABC): This repo serves as a delivery folder for my Network Analytics course in my Master's program of Data Analytics & Business Computing, group deliverable(code only) including a Travel Recommender system using Community detection:
+	- Web scraped users' posts, reviews, and hashtags from Twitter on travelling destinations in Python, amounting to 30,000 data points.
+ 	- Constructed the adjacency matrix and user similarity network with Jaccard Index, detected and labeled 5 homophily communities in a divisive algorithm, and built bipartite graphs to identify destinations with higher in-degree centrality as customized travelling lists. The final recommendation system improves the scenic spots’ matching accuracy by 15%.
