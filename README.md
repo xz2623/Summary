@@ -3,7 +3,7 @@ Welcome to my GitHub Page!
 
 ### Group Project
 - [customer_recovery](https://github.com/xz2623/customer_recovery): This folder contains the deliverables(code) for Jetta, a separate sub-brand of the Volkswagen Group, where we attempted to reacquire customers who have visited physical stores but haven't made a purchase by in-depth data analyses and machine learning solutions.
-- conducted data cleaning and preparation, and exploratory data analysis on available customer data provided by our vendors, including
+- Conducted data cleaning and preparation, and exploratory data analysis on available customer data provided by our vendors, including
 	- customer data of activities at the physical stores, test driving, conversation topics, expressed interests, etc.
  	- customer data of behaviors on a Chinese automobile community app, including surveys, favorite lists, etc. 
 - aggregated the data at the level of each visitor and built a viable ML model that predicts how likely each customer is to be re-acquired.
@@ -24,9 +24,10 @@ Welcome to my GitHub Page!
 5. sub-folder [5. Time-decay algorithms]
 </details>
 
+### Research Project
+- [Celebrity_Network_2009-2019](https://github.com/xz2623/Celebrity_Network_2009-2019): This folder contains scripts I coded for empirical research on the Chinese movie market through the lens of social influence.
+- ***Data_Cleaning.ipynb***: Web-scraped and preprocessed 2,200+ demographic records from Baidu Encyclopedia
+- ***Individual & Aggregated Network Build.ipynb***: Constructed large-scale celebrity networks (5,856 nodes, 2009–2019) applying adjacency rules based on collaboration, education, kinship, and birthplace, and applied network analysis techniques to compute centrality measures (degree, closeness, betweenness, eigenvector)
 
-
-
-	1. visiting table that recorded customer's test driving in or out of the store records, 
-opportunity table indicating customers' intention, or conversation topic during their visit in the physical store.<img width="1072" height="49" alt="image" src="https://github.com/user-attachments/assets/6d39fc5c-a255-428e-b81d-877c3b5748a6" />
-conducted exploratory data analysis of customer activities, including conversation topics during their visits to physical stores
+### Academic Project
+- [AB_Testing---MSDABC](https://github.com/xz2623/AB_Testing---MSDABC): This repo serves as a delivery folder for my Marketing Analytics course in my Master program of Data Analytics & Business Computing, group deliverables including assignment of A/B testing, customer attribution and allocation, customer segmentation,
