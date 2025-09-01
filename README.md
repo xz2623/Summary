@@ -2,14 +2,18 @@
 Welcome to my GitHub Page!
 
 ### Group Project
-- [customer_recovery](https://github.com/xz2623/customer_recovery): This folder contains the deliverables for Jetta, a separate sub-brand of the Volkswagen Group, where we attempted to reacquire customers who have visited physical stores but haven't made a purchase by in-depth data analyses and machine learning solutions.
+- [customer_recovery](https://github.com/xz2623/customer_recovery): This folder contains the deliverables(code) for Jetta, a separate sub-brand of the Volkswagen Group, where we attempted to reacquire customers who have visited physical stores but haven't made a purchase by in-depth data analyses and machine learning solutions.
+- conducted data cleaning and preparation, and exploratory data analysis on available customer data provided by our vendors, including
+	- customer data of activities at the physical stores, test driving, conversation topics, expressed interests, etc.
+ 	- customer data of behaviors on a Chinese automobile community app, including surveys, favorite lists, etc. 
+- aggregated the data at the level of each visitor and built a viable ML model that predicts how likely each customer is to be re-acquired.
 
 <details>
   <summary>Folder Category and Description</summary>
 
 ***Main folder***: [机会战败模型](In English: A ML project that mitigates potential customers loss)
   
-1. sub-folder [1. 合并表格及数据预处理](In English: 1. Data Merging and Data Preprocessing): conducted data cleaning and preparation
+1. sub-folder [1. 合并表格及数据预处理](In English: 1. Data Merging and Data Preprocessing): conducted 
 
 2. sub-folder [2. 构建客流表与机会表款表字段](In English: 2. Built a wide table with customer activities and intentions)
 
