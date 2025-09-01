@@ -1,13 +1,14 @@
+Welcome to my GitHub Page! :wave:
+
 # Summary
-Welcome to my GitHub Page!
 
 ### Research Project
-- [Celebrity_Network_2009-2019](https://github.com/xz2623/Celebrity_Network_2009-2019): This folder contains scripts I coded for empirical research on the Chinese movie market through the lens of social influence.
+- [Celebrity_Network_2009-2019](https://github.com/xz2623/Celebrity_Network_2009-2019): This folder contains scripts I coded for empirical research on the Chinese movie market :movie_camera: through the lens of social influence.
 - ***Data_Cleaning.ipynb***: Web-scraped and preprocessed 2,200+ demographic records from Baidu Encyclopedia
 - ***Individual & Aggregated Network Build.ipynb***: Constructed large-scale celebrity networks (5,856 nodes, 2009–2019) applying adjacency rules based on collaboration, education, kinship, and birthplace, and applied network analysis techniques to compute centrality measures (degree, closeness, betweenness, eigenvector)
 
 ### Group Project: Industry
-- [customer_recovery](https://github.com/xz2623/customer_recovery): This folder contains the deliverables(code) for Jetta, a separate sub-brand of the Volkswagen Group, where we, as data analysis consultants, attempted to reacquire customers who have visited physical stores but haven't made a purchase by in-depth data analyses and machine learning solutions.
+- [customer_recovery](https://github.com/xz2623/customer_recovery): This folder contains the deliverables(code) for Jetta, :car: a separate sub-brand of the Volkswagen Group, where we, as data analysis consultants, attempted to reacquire customers who have visited physical stores but haven't made a purchase by in-depth data analyses and machine learning solutions.
 - Conducted data cleaning and preparation, and exploratory data analysis on available customer data provided by our vendors, including
 	- customer data of activities at the physical stores, test driving, conversation topics, expressed interests, etc.
  	- customer data of behaviors on a Chinese automobile community app, including surveys, favorite lists, etc. 
