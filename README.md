@@ -6,10 +6,10 @@ Welcome to my GitHub Page! :wave:, below is a brief summary
 - ***Individual & Aggregated Network Build.ipynb***: Constructed large-scale celebrity networks (5,856 nodes, 2009–2019) applying adjacency rules based on collaboration, education, kinship, and birthplace, and applied network analysis techniques to compute centrality measures (degree, closeness, betweenness, eigenvector)
 
 ### Group Project: Industry
-- [customer_recovery](https://github.com/xz2623/customer_recovery): This folder contains the deliverables(code) for Jetta, :car: a separate sub-brand of the Volkswagen Group, where we, as data analysis consultants, attempted to reacquire customers who have visited physical stores but haven't made a purchase by in-depth data analyses and machine learning solutions.
-- Conducted data cleaning and preparation, and exploratory data analysis on available customer data provided by our vendors, including
-	- customer data of activities at the physical stores, test driving, conversation topics, expressed interests, etc.
- 	- customer data of behaviors on a Chinese automobile community app, including surveys, favorite lists, etc. 
+- [customer_recovery](https://github.com/xz2623/customer_recovery): contains the deliverables(code) for Jetta, :car: a sub-brand of Volkswagen, where we, as data analysis consultants, were hired to reacquire customers who have visited physical stores but haven't made a purchase by in-depth data analyses and machine learning solutions.
+- Conducted data pre-processing and exploratory data analysis on available customer data, including
+	- activities at the physical stores, test driving, conversation topics, expressed interests, etc.
+ 	- behaviors on a Chinese automobile community app, including surveys, favorite lists, etc. 
 - aggregated the data at the level of each visitor and built a viable ML model that predicts how likely each customer is to be re-acquired.
 <details>
   <summary>Folder Category and Description in English</summary>
