@@ -1,6 +1,4 @@
-Welcome to my GitHub Page! :wave:
-
-# Summary
+Welcome to my GitHub Page! :wave:, below is a brief summary
 
 ### Research Project
 - [Celebrity_Network_2009-2019](https://github.com/xz2623/Celebrity_Network_2009-2019): This folder contains scripts I coded for empirical research on the Chinese movie market :movie_camera: through the lens of social influence.
