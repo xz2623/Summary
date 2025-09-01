@@ -6,7 +6,8 @@ Welcome to my GitHub Page!
 
 <details>
   <summary>Folder Category and Description</summary>
-Main folder: [机会战败模型](In English: A ML project that mitigates potential customers loss)
+
+***Main folder***: [机会战败模型](In English: A ML project that mitigates potential customers loss)
   
 1. sub-folder [1. 合并表格及数据预处理](In English: 1. Data Merging and Data Preprocessing): conducted data cleaning and preparation
 
